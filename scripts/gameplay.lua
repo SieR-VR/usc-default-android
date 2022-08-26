@@ -307,7 +307,7 @@ function ResetLayoutInformation()
             gauge_info.posx = desw - gauge_info.width
         end
 
-        gauge_info.label_posx = gauge_info.posx + (100 * 0.35)
+        gauge_info.label_posx = gauge_info.posx + (100 * 0.35) 
         gauge_info.label_height = 880 * 0.35
         if portrait then
             gauge_info.label_height = gauge_info.label_height * 0.8;

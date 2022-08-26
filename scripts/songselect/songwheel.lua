@@ -55,9 +55,9 @@ local recordCache = {}
 
 gfx.LoadSkinFont("NotoSans-Regular.ttf");
 
-game.LoadSkinSample("menu_click.wav")
-game.LoadSkinSample("click-02.wav")
-game.LoadSkinSample("woosh.wav")
+game.LoadSkinSample("menu_click")
+game.LoadSkinSample("click-02")
+game.LoadSkinSample("woosh")
 
 local wheelSize = 12
 

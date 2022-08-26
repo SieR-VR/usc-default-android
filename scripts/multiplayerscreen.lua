@@ -10,9 +10,9 @@ local buttonHeight = 75;
 local buttonBorder = 2;
 local portrait
 
-game.LoadSkinSample("click-02.wav")
-game.LoadSkinSample("click-01.wav")
-game.LoadSkinSample("menu_click.wav")
+game.LoadSkinSample("click-02")
+game.LoadSkinSample("click-01")
+game.LoadSkinSample("menu_click")
 
 local loading = true;
 local rooms = {};
