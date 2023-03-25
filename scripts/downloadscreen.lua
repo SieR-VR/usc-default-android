@@ -1,4 +1,4 @@
-json = require "json"
+json = require "skins/default/scripts/json"
 local header = {}
 header["user-agent"] = "unnamed_sdvx_clone"
 

@@ -1107,7 +1107,7 @@ end
 
 -- ======================== Start mutliplayer ========================
 
-json = require "json"
+json = require "skins/default/scripts/json"
 
 local normal_font = game.GetSkinSetting('multi.normal_font')
 if normal_font == nil then
